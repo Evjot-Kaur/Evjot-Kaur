@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Evjot Kaur</h1>
 <h3 align="center">A Fresher with passion in Data Analysis from India</h3>
 
@@ -12,6 +13,7 @@
 
 - ⚡ Fun fact **I am a Tutor**
 
+- 🖊️ Here's my Resume [Resume EvjotKaur.docx](https://github.com/user-attachments/files/21227759/Resume.EvjotKaur.docx)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/evjotkaur">LinkedIn</a><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="evjot kaur" height="30" width="40" />
